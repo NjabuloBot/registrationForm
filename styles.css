@@ -23,9 +23,7 @@ form{
 }
 
 fieldset{
-    border: 0px;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    margin-left: 0px;
-    margin-right: 0px;
+    border: none;
+    padding: 2rem 0;
+    border-bottom:3px solid #3b3b4f;
 }
